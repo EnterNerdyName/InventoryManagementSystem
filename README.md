@@ -1,7 +1,7 @@
 # InventoryManagementSystem
 (Java) C482 Software 1 Project
 
-Software I builds object-oriented programming expertise and introduces powerful new tools for Java application development. You will learn about and put into action class design, exception handling, and other object-oriented principles and constructs to develop software that meets business requirements. This course requires foundational knowledge of object-oriented programming.
+Software I builds object-oriented programming expertise and introduces powerful new tools for Java application development utilizing Java SE 8. You will learn about and put into action class design, exception handling, and other object-oriented principles and constructs to develop software that meets business requirements. This course requires foundational knowledge of object-oriented programming. This course will help you prepare for the prepare for the Oracle Certified Associate Java SE 8 Programmer exam.
 
 Competencies
 
