@@ -137,8 +137,56 @@ J.  Write code to implement exception controls with custom error messages for on
 •  ensuring that a product must have a name, price, and inventory level (default 0)
 
  
-
 K.  Demonstrate professional communication in the content and presentation of your submission.
+
+Competent Rubric:
+•  Main Screen - The main screen includes all required controls and presents a professional appearance. The code is complete and functions properly.
+•  Add Part Screen - The “Add Part” screen includes all required controls and presents a professional appearance. The code is complete and functions properly.
+•  Modify Part Screen - The “Modify Part” screen includes all required controls, and presents a professional appearance. The code is complete and functions properly.
+•  Add Product Screen - The “Add Product” screen includes all required controls and presents a professional appearance. The code is complete and functions properly.
+•  Modify Product Screen - The “Modify Product” screen includes all required controls and presents a professional appearance. The code is complete and functions properly.
+•  Class Structure - The application includes all required classes and correctly associated instance variables. The variables are only accessible through getter methods and are only modifiable through setter methods. The code is complete and functions properly.
+•  Main Screen Functions - The main screen includes all required functionalities and reflects the methods in the attached class diagram. The code is complete and functions properly.
+•  Add Part Screen Functions - The “Add Part” screen includes all required functionalities and reflects the methods in the attached class diagram. The code is complete and functions properly.
+•  Modify Part Screen Functions - The “Modify Part” screen includes all required functionalities and reflects the methods in the attached class diagram. The code is complete and functions properly.
+•  Add Product Screen Functions - The “Add Product” screen includes all required functionalities and reflects the methods in the attached class diagram. The code is complete and functions properly.
+•  Modify Product Screen Functions - The “Modify Product” screen includes all required functionalities and reflects the methods in the attached class diagram. The code is complete and functions properly.
+•  Exception Controls Set 1 - The application includes one required exception control from set 1, and uses appropriate language in the custom error messages. The code is complete and functions properly.
+•  Exception Controls Set 2 - The application includes one required exception control from set 2, and uses appropriate language in the custom error messages. The code is complete and functions properly.
+•  Professional Communication - Content reflects attention to detail, is organized, and focuses on the main ideas as prescribed in the task or chosen by the candidate. Terminology is pertinent, is used correctly, and effectively conveys the intended meaning. Mechanics, usage, and grammar promote accurate interpretation and understanding.
+
+Approaching Compentency Rubric:
+•  Main Screen - The main screen does not include all required controls or present a professional appearance. The code contains errors or is incomplete.
+•  Add Part Screen - Add Part Screen - The “Add Part” screen does not include all required controls or present a professional appearance. The code contains errors or is incomplete
+•  Modify Part Screen - The “Modify Part” screen does not include all required controls or present a professional appearance. The code contains errors or is incomplete.
+•  Add Product Screen - The “Add Product” screen does not include all required controls or present a professional appearance. The code contains errors or is incomplete.
+•  Modify Product Screen - The “Modify Product” screen does not include all required controls or present a professional appearance. The code contains errors or is incomplete.
+•  Class Structure - The application does not include all required classes or includes incorrectly associated instance variables. The variables are accessible and modifiable outside getter and setter methods. The code is incomplete or does not function properly.
+•  Main Screen Functions - The main screen does not include all required functionalities or does not reflect the methods in the attached class diagram. The code contains errors or is incomplete.
+•  Add Part Screen Functions - The “Add Part” screen does not include all required functionalities or does not reflect the methods in the attached class diagram. The code contains errors or is incomplete.
+•  Modify Part Screen Functions - The “Modify Part” screen does not include all required functionalities or does not reflect the methods in the attached class diagram. The code contains errors or is incomplete.
+•  Add Product Screen Functions - The “Add Product” screen does not include all required functionalities or does not reflect the methods in the attached class diagram. The code contains errors or is incomplete.
+•  Modify Product Screen Functions - The “Modify Product” screen does not include all required functionalities or does not reflect the methods in the attached class diagram. The code contains errors or is incomplete.
+•  Exception Controls Set 1 - The application does not include one required exception control from set 1, or the language used in the custom error messages is not appropriate or distracts from the application. The code contains errors or is incomplete.
+•  Exception Controls Set 2 - The application does not include one  required exception control from set 2, or the language used in the custom error messages is not appropriate or distracts from the application. The code contains errors or is incomplete.
+•  Professional Communication - Content is poorly organized, is difficult to follow, or contains errors in mechanics, usage, or grammar that cause confusion. Terminology is misused or ineffective.
+
+Not Evident Rubric:
+•  Main Screen - No code is provided for a main screen.
+•  Add Part Screen - No code is provided.
+•  Modify Part Screen - No code is provided.
+•  Add Product Screen - No code is provided.
+•  Modify Product Screen - No code is provided.
+•  Class Structure - No code is provided.
+•  Main Screen Functions - No code is provided.
+•  Add Part Screen Functions - No code is provided.
+•  Modify Part Screen Functions - No code is provided.
+•  Add Product Screen Functions - No code is provided.
+•  Modify Product Screen Functions - No code is provided.
+•  Exception Controls Set 1 - No code is provided.
+•  Exception Controls Set 2 - No code is provided.
+•  Professional Communication - Content is unstructured, is disjointed, or contains pervasive errors in mechanics, usage, or grammar. Vocabulary or tone is unprofessional or distracts from the topic.
+ 
 
 
 
